@@ -1,7 +1,7 @@
 ![DSL Logo][dsllogo]
 
 
-# Identifying Food Deserts Neighbourhoods in the Niagara Region
+# Identifying Food Desert Neighbourhoods in the Niagara Region
 Description of contents
 
 ### First header
