@@ -13,7 +13,7 @@ Content
 >2. Locate the downloaded file on your computer. 
 >Right-click the file and extract it to a location where you can easily find it, such as your Documents folder.
 
->3. Sign in to your Insights Online account.
+>3. Sign in to your Insights Online account.https://insights.arcgis.com/#/
 
 >
 >
