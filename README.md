@@ -15,9 +15,11 @@ Content
 
 >3. Sign in to your Insights Online account:https://insights.arcgis.com/#/
 
->
->
->
+>Note: If this is your first time using Insights, the Welcome to Insights window appears with a list of things you can do with Insights.
+
+>4. If necessary, in the Welcome to Insights window, click Skip.
+
+>5. Click the Workbooks tab.
 >
 >
 >
