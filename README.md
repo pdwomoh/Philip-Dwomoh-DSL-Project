@@ -116,6 +116,7 @@ Once the data is shared, ‘Shared.Open Item’ appears below the Food Deserts D
 Once the data is shared, ‘Shared.Open Item’ appears below the Bar Chart 1 as seen below.
  
 Identifying food deserts in Niagara neighbourhoods using distance parameters.
+
 40. Go back to the map. Click Card filter to add new filter. Click New Filter. For Filter by choose the field ‘Number of supermarkets within 5km’. Drag from 25 to 0 and click Apply.
 
 
