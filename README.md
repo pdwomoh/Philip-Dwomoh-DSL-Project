@@ -128,19 +128,19 @@ Once the data is shared, ‘Shared.Open Item’ appears below the Bar Chart 1 as
 
 42. Click on “**Niagara Neighbourhoods without Supermarkets**” and rename it as **Niagara’s Food Desert Neighbourhoods by Distance**, and press **Enter**.
  
-42. Share the map using the same steps used for the first map result. 
+43. Share the map using the same steps used for the first map result. 
  
-43. Click **Share**.
+44. Click **Share**.
 
-44. Finally Click **Save**.
+45. Finally Click **Save**.
 
 **Creating new shapefiles from my results**.
 
-45. Go to the **Food Desert Data** map output dataset in the **Data pane**, click **Dataset** and click **Export**, and finally select **Shapefiles**.
+46. Go to the **Food Desert Data** map output dataset in the **Data pane**, click **Dataset** and click **Export**, and finally select **Shapefiles**.
  
-46. Save the new shapefile to your desired location on your computer.
+47. Save the new shapefile to your desired location on your computer.
 
-47. You can also repeat this above process to also create a shapefile for the **Bar Chart** as well. 
+48. You can also repeat this above process to also create a shapefile for the **Bar Chart** as well. 
                                              
                                              **Thank you and have a prosperous New Year**.
 
