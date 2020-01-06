@@ -8,7 +8,7 @@ Description of contents
 >Finally, I will share my work on ArcGIS online and create new shapefiles from my results.
 ### First header
 Content
->1. Download the Niagara Food Deserts compressed folder from the GitHub link below:[ https://github.com/pdwomoh/Philip-Dwomoh-DSL-Project]
+>1. Download the Niagara Food Deserts compressed folder from the GitHub link below: https://github.com/pdwomoh/Philip-Dwomoh-DSL-Project
 
 
 ### Second Header
