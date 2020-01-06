@@ -10,6 +10,28 @@ Description of contents
 Content
 >1. Download the Niagara Food Deserts compressed folder from the GitHub link below: https://github.com/pdwomoh/Philip-Dwomoh-DSL-Project
 
+>2. Locate the downloaded file on your computer. 
+>Right-click the file and extract it to a location where you can easily find it, such as your Documents folder.
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
 
 ### Second Header
 
