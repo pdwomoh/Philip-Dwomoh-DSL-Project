@@ -62,32 +62,32 @@ NBH_NAME	Niagara Neighbourhoods
 MUN	Municipality
 No_sup	Number of Supermarkets
 No. supermarket within 5km	Number of Supermarket within 5 km
-After completing the renaming, click on the Food Deserts Data to close the drop-down attribute.
+After completing the renaming, click on the **Food Deserts Data** to close the drop-down attribute.
 
-20. In the data pane, Drag Food Deserts Data to your page and onto the Chart drop zone. And finally drag it to the Bar Chart zone.
+20. In the data pane, Drag **Food Deserts Data** to your page and onto the **Chart** drop zone. And finally drag it to the **Bar Chart** zone.
 
-21. Click on the Visualization type and select summary table.
+21. Click on the **Visualization type** and select **Summary table**.
  
-22. Click on the NBH_ID drop down arrow and click on the field “Municipality”
+22. Click on the **NBH_ID** drop down arrow and click on the field “**Municipality**”
  
-23. Similarly click on the Counts of Food Deserts Data drop down arrow and click on “Number of Supermarkets”
+23. Similarly click on the**Counts of Food Deserts Data** drop down arrow and click on “**Number of Supermarkets**”
  
-The Summary Table now depicts Municipalities in Niagara and their corresponding supermarket accessibility.
+The **Summary Table** now depicts Municipalities in Niagara and their corresponding supermarket accessibility.
  
-24. Click Visualization type and select Bar Chart. Drag the center-right handle of the Bar Chart Card until the card is at a maximum length.
+24. Click **Visualization type** and select **Bar Chart**. Drag the center-right handle of the **Bar Chart Card** until the card is at a maximum length.
  
-Change the symbology of the bar chart card.
-25. First click on the ‘Legend’. Click Options inside the Layer option box. Change the Symbol type from Single symbol to Unique symbols and click “x” to close the layer option box. Finally click anywhere outside the Bar Chart Card.
+**Change the symbology of the bar chart card**.
+25. First click on the ‘**Legend**’. Click **Options** inside the Layer option box. Change the **Symbol type** from **Single symbol** to **Unique symbols** and click “**x**” to close the layer option box. Finally click anywhere outside the **Bar Chart Card**.
  
-26. Click on Card 1 and type “Number of Supermarkets by Municipality” as the title for the bar chart, and press Enter.
+26. Click on **Card 1** and type “**Number of Supermarkets by Municipality**” as the title for the bar chart, and press **Enter**.
 
-27. Click Save.
+27. Click **Save**.
  
 
-Part 2.: Identifying Food Deserts Neighbourhoods in the Niagara Region
-28. In the data pane, Drag Food Deserts Data to your page below the Bar Chart Card and onto the Map drop zone.  
+**Part 2: Identifying Food Deserts Neighbourhoods in the Niagara Region**
+28. In the data pane, Drag **Food Deserts Data** to your page below the **Bar Chart Card** and onto the **Map** drop zone.  
 
-29. Click Legend, click the arrow to the right of the food deserts data as shown on the map.
+29. Click **Legend**, click the **arrow** to the right of the food deserts data as shown on the map.
  
 30. The Layer options box pops up. Click Options. For Style by, choose Niagara Neighbourhoods and for the Symbol style confirm that it is Unique symbols. When finished close the Layer options box
  
