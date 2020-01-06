@@ -5,7 +5,7 @@
 Description of contents
 
 In these lessons, I will explored neighbourhood data using ArcGIS Insights to identify food deserts neighbourhoods in Niagara Region. I will also analyze the data to detect spatial patterns. Finally, I will share my work on ArcGIS online and create new shapefiles from my results.
-### First header
+### Project Procedures
 Content
 1. Download the Niagara Food Deserts compressed folder from the GitHub link below: https://github.com/pdwomoh/Philip-Dwomoh-DSL-Project
 
@@ -85,65 +85,66 @@ The **Summary Table** now depicts Municipalities in Niagara and their correspond
  
 
 **Part 2: Identifying Food Deserts Neighbourhoods in the Niagara Region**
+
 28. In the data pane, Drag **Food Deserts Data** to your page below the **Bar Chart Card** and onto the **Map** drop zone.  
 
 29. Click **Legend**, click the **arrow** to the right of the food deserts data as shown on the map.
  
-30. The Layer options box pops up. Click Options. For Style by, choose Niagara Neighbourhoods and for the Symbol style confirm that it is Unique symbols. When finished close the Layer options box
+30. The **Layer options** box pops up. Click **Options**. For **Style by**, choose *Niagara Neighbourhoods* and for the **Symbol style** confirm that it is *Unique symbols*. When finished close the Layer options box.
  
-We now want to identify neighbourhoods with no access to supermarkets.
-31. Click on Card Filter.
+**We now want to identify neighbourhoods with no access to supermarkets**.
+31. Click on **Card Filter**.
  
-32. A new filter box pops-up. Below Filter By click on the Choose a field drop down arrow and select Number of supermarkets.
+32. A new filter box pops-up. Below **Filter By** click on the **Choose a field** drop down arrow and select **Number of supermarkets**.
  
-33. Drag to you left from 7 until you reach 0. Click Apply and close Filter.
+33. Drag to you left from **7** until you reach **0**. Click **Apply** and close **Filter**.
 
 34. Finally click anywhere outside the Bar Chart Card.
 
-35. Click on Card 1 and type “Niagara Neighbourhoods without Supermarkets” as the title for the Map, and press Enter.
+35. Click on **Card 1** and type “*Niagara Neighbourhoods without Supermarkets*” as the title for the Map, and press **Enter**.
 
-36. Click Save.
+36. Click **Save**.
 
-37. Go to the Data pane, click Dataset at the right side of Food Deserts Data Map Result. Click Share Data. 
+37. Go to the **Data pane**, click **Dataset** at the right side of **Food Deserts Data Map Result**. Click **Share Data**. 
  
-38. Follow the steps in the share data box below and click share.
+38. Follow the steps in the Share data box below and click Share.
  
 
 Once the data is shared, ‘Shared.Open Item’ appears below the Food Deserts Data as seen below.
   
-39. Repeat the same process for Bar Chart 1 in the Data pane and follow the procedure in the shared data below. Click share
+39. Repeat the same process for **Bar Chart 1** in the Data pane and follow the procedure in the shared data below. Click **Share**
  
 Once the data is shared, ‘Shared.Open Item’ appears below the Bar Chart 1 as seen below.
  
-Identifying food deserts in Niagara neighbourhoods using distance parameters.
+**Identifying food deserts in Niagara neighbourhoods using distance parameters**.
 
-40. Go back to the map. Click Card filter to add new filter. Click New Filter. For Filter by choose the field ‘Number of supermarkets within 5km’. Drag from 25 to 0 and click Apply.
+40. Go back to the map. Click **Card filter** to add new filter. Click **New Filter**. For **Filter by** choose the field ‘**Number of supermarkets within 5km**’. Drag from **25** to **0** and click **Apply**.
 
 
-Below is the map of Niagara’s food deserts neighbourhoods without access to supermarkets within 5 km.
+**Below is the map of Niagara’s food deserts neighbourhoods without access to supermarkets within 5 km**.
  
  
 41. Click anywhere outside the Map card.
 
-42. Click on “Niagara Neighbourhoods without Supermarkets” and rename it as Niagara’s Food Desert Neighbourhoods by Distance, and press Enter.
+42. Click on “**Niagara Neighbourhoods without Supermarkets**” and rename it as **Niagara’s Food Desert Neighbourhoods by Distance**, and press **Enter**.
  
 42. Share the map using the same steps used for the first map result. 
  
-43. Click Share.
+43. Click **Share**.
 
-44. Finally Click Save.
+44. Finally Click **Save**.
 
-Creating new shapefiles from my results.
-45. Go to the Food Desert Data map output dataset in the Data pane, click Dataset and click Export, and finally select Shapefiles.
+**Creating new shapefiles from my results**.
+45. Go to the **Food Desert Data** map output dataset in the **Data pane**, click **Dataset** and click **Export**, and finally select **Shapefiles**.
  
 46. Save the new shapefile to your desired location on your computer.
 
-47. You can also repeat this above process to also create a shapefile for the Bar Chart as well. 
+47. You can also repeat this above process to also create a shapefile for the **Bar Chart** as well. 
                                              
-                                             Thank you and have a prosperous New Year.
+                                             **Thank you and have a prosperous New Year**.
 
 
-### Second Header
+### Conclusion
 
 Content
 
