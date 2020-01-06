@@ -135,6 +135,7 @@ Once the data is shared, ‘Shared.Open Item’ appears below the Bar Chart 1 as
 44. Finally Click **Save**.
 
 **Creating new shapefiles from my results**.
+
 45. Go to the **Food Desert Data** map output dataset in the **Data pane**, click **Dataset** and click **Export**, and finally select **Shapefiles**.
  
 46. Save the new shapefile to your desired location on your computer.
