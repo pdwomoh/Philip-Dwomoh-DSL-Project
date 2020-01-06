@@ -15,43 +15,43 @@ Content
 
 >Note: If this is your first time using Insights, the **Welcome to Insights** window appears with a list of things you can do with Insights.
 
-4. If necessary, in the Welcome to Insights window, click Skip.
+4. If necessary, in the **Welcome to Insights** window, click **Skip**.
 
-5. Click the Workbooks tab.
+5. Click the **Workbooks** tab.
 
-6. Click New workbook.
+6. Click **New workbook**.
  
->Note: The Add To Page window appears.
+>Note: The **Add To Page** window appears.
 >In this window, you can choose a dataset to add to your new workbook. 
 >You can choose data hosted in your ArcGIS organization, data in a file on your computer, or data from Living Atlas. 
 
-7. In the left pane, click Files.
+7. In the left pane, click **Files**.
  
-8. Click Browse my computer. Browse to the extracted Niagara Food Deserts folder and select Book1.xlsx. and NhbBoundaries compressed zip folder and click open.
+8. Click Browse my computer. Browse to the extracted **Niagara Food Deserts** folder and select **Book1.xlsx**. and **NhbBoundaries compressed zip** folder and click **Open**.
 
-9. In the Selected Data pane, click Add.
+9. In the **Selected Data** pane, click **Add**.
  
 >The datasets are added to a new card in your workbook. 
 >You use cards and pages to organize information in a workbook.
 >Each page can contain multiple cards, and each card can contain a map, chart, or table. 
 
-10. Click Untitled Workbook, type Niagara's Food desert Neighbourhoods and press Enter.
+10. Click **Untitled Workbook**, type *Niagara's Food desert Neighbourhoods* and press **Enter**.
 
-11. Click Page 1, type Data Exploration, and press Enter.
+11. Click **Page 1**, type *Data Exploration*, and press **Enter**.
 
-12. In the data pane, point to Book1 and click Rename dataset.
+12. In the data pane, point to **Book1** and click **Rename dataset**.
  
-13. Type Food Desert Data and press Enter.
+13. Type *Food Desert Data* and press **Enter**.
 
-14. Repeat the above step and rename NhbBoundaries to Niagara Neighbourhood Boundaries and press Enter.
+14. Repeat the above step and rename **NhbBoundaries to Niagara Neighbourhood Boundaries** and press **Enter**.
 
-15. Point to Food Desert Data, click Dataset Options, and choose Enable Location.   
+15. Point to **Food Desert Data**, click **Dataset Options**, and choose **Enable Location**.   
             
-16. In the Enable Location window, for Location type, choose Geography. For Location Fields choose Multiple, and for the multiple Fields choose NHB_NAME and MUN. For Matching Geography Level, choose Niagara Neighbourhood Boundaries.
+16. In the **Enable Location** window, for **Location type**, choose *Geography*. For **Location Fields** choose *Multiple*, and for the **Multiple Fields** choose *NHB_NAME and MUN*. For **Matching Geography Level**, choose *Niagara Neighbourhood Boundaries*.
  
-17. Click Run.
+17. Click **Run**.
 
-18. When the Enable Location tool finish loading, a new locations attribute named Niagara Neighbourhood Boundaries is added to Food Deserts Data.
+18. When the **Enable Location tool** finish loading, a new locations attribute named **Niagara Neighbourhood Boundaries** is added to **Food Deserts Data**.
  
 >Note: I chose geography as the location type because the food Deserts Data did not have any coordinate or address attribute.
 >Hence making it possible to correspond the food deserts data’s locations to that of the zipped Niagara Neighbourhood boundaries shapefile. 
