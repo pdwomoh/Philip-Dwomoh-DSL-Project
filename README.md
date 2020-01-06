@@ -29,7 +29,7 @@ Content
  
 8. Click Browse my computer. Browse to the extracted Niagara Food Deserts folder and select Book1.xlsx. and NhbBoundaries compressed zip folder and click open.
 
-9.In the Selected Data pane, click Add.
+9. In the Selected Data pane, click Add.
  
 >The datasets are added to a new card in your workbook. 
 >You use cards and pages to organize information in a workbook.
