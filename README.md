@@ -21,7 +21,7 @@ Content
 
 6. Click **New workbook**.
 
-logo1.png
+![alt text][logo1]
 
  
 >Note: The **Add To Page** window appears.
