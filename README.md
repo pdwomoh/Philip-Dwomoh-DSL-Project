@@ -20,6 +20,7 @@ Content
 5. Click the **Workbooks** tab.
 
 6. Click **New workbook**.
+[logo1]
  
 >Note: The **Add To Page** window appears.
 >In this window, you can choose a dataset to add to your new workbook. 
