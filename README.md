@@ -22,9 +22,9 @@ In these lessons, I will explored neighbourhood data using ArcGIS Insights to id
 6. Click **New workbook**.
 
 Reference-style:
-![alt  text] [logo1]
+![ Picture of New Workbook][logo1]
 
-[logo1]: https://github.com/pdwomoh/Philip-Dwomoh-DSL-Project/blob/master/logo1.png
+
 
  
 >Note: The **Add To Page** window appears.
@@ -174,3 +174,4 @@ Content
 <!--- Please use reference style images so that it is easier to update pictures later --->
 
 [dsllogo]: dsl_logo.png
+[logo1]: logo1.png
