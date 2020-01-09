@@ -31,10 +31,12 @@ In these lessons, I will explored neighbourhood data using ArcGIS Insights to id
 >You can choose data hosted in your ArcGIS organization, data in a file on your computer, or data from Living Atlas. 
 
 7. In the left pane, click **Files**.
+![picture of File button][logo2]
  
 8. Click Browse my computer. Browse to the extracted **Niagara Food Deserts** folder and select **Book1.xlsx**. and **NhbBoundaries compressed zip** folder and click **Open**.
 
 9. In the **Selected Data** pane, click **Add**.
+![picture of selected data][logo3]
  
 >The datasets are added to a new card in your workbook. 
 >You use cards and pages to organize information in a workbook.
@@ -174,3 +176,5 @@ Content
 
 [dsllogo]: dsl_logo.png
 [logo1]: logo1.png
+[logo2]: logo2.png
+[logo3]: logo3.png
