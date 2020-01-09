@@ -60,6 +60,7 @@ Content
 19. Rename the following fields in the food deserts data in the data pane:
 
 From |	To 
+--- | ---
 NBH_NAME |	Niagara Neighbourhoods
 MUN |	Municipality
 No_sup |	Number of Supermarkets
