@@ -21,8 +21,6 @@ Content
 
 6. Click **New workbook**.
 
-![alt text][logo1]
-
  
 >Note: The **Add To Page** window appears.
 >In this window, you can choose a dataset to add to your new workbook. 
@@ -60,11 +58,13 @@ Content
 >Hence making it possible to correspond the food deserts data’s locations to that of the zipped Niagara Neighbourhood boundaries shapefile. 
 
 19. Rename the following fields in the food deserts data in the data pane:
-From 	To 
-NBH_NAME	Niagara Neighbourhoods
-MUN	Municipality
-No_sup	Number of Supermarkets
-No. supermarket within 5km	Number of Supermarket within 5 km
+
+From |	To 
+NBH_NAME |	Niagara Neighbourhoods
+MUN |	Municipality
+No_sup |	Number of Supermarkets
+No. supermarket within 5km |	Number of Supermarket within 5 km
+
 After completing the renaming, click on the **Food Deserts Data** to close the drop-down attribute.
 
 20. In the data pane, Drag **Food Deserts Data** to your page and onto the **Chart** drop zone. And finally drag it to the **Bar Chart** zone.
