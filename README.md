@@ -30,9 +30,11 @@ In these lessons, I will explored neighbourhood data using ArcGIS Insights to id
 >In this window, you can choose a dataset to add to your new workbook. 
 >You can choose data hosted in your ArcGIS organization, data in a file on your computer, or data from Living Atlas. 
 
+
 7. In the left pane, click **Files**.
 
 ![picture of File button][logo2]
+
 
  
 8. Click Browse my computer. Browse to the extracted **Niagara Food Deserts** folder and select **Book1.xlsx**. and **NhbBoundaries compressed zip** folder and click **Open**.
@@ -41,10 +43,13 @@ In these lessons, I will explored neighbourhood data using ArcGIS Insights to id
 
 ![picture of selected data][logo3]
 
+
  
 >The datasets are added to a new card in your workbook. 
 >You use cards and pages to organize information in a workbook.
 >Each page can contain multiple cards, and each card can contain a map, chart, or table. 
+
+
 
 10. Click **Untitled Workbook**, type *Niagara's Food desert Neighbourhoods* and press **Enter**.
 
@@ -63,6 +68,7 @@ In these lessons, I will explored neighbourhood data using ArcGIS Insights to id
 
 ![picture of enable location][logo5]
 
+
             
 16. In the **Enable Location** window, for **Location type**, choose *Geography*. For **Location Fields** choose *Multiple*, and for the **Multiple Fields** choose *NHB_NAME and MUN*. For **Matching Geography Level**, choose *Niagara Neighbourhood Boundaries*.
 
@@ -77,8 +83,10 @@ In these lessons, I will explored neighbourhood data using ArcGIS Insights to id
 ![picture of new location in the data pane][logo7]
 
  
+ 
 >Note: I chose geography as the location type because the food Deserts Data did not have any coordinate or address attribute.
 >Hence making it possible to correspond the food deserts data’s locations to that of the zipped Niagara Neighbourhood boundaries shapefile. 
+
 
 19. Rename the following fields in the food deserts data in the data pane:
 
@@ -89,6 +97,7 @@ MUN |	Municipality
 No_sup |	Number of Supermarkets
 No. supermarket within 5km |	Number of Supermarket within 5 km
 
+
 After completing the renaming, click on the **Food Deserts Data** to close the drop-down attribute.
 
 20. In the data pane, Drag **Food Deserts Data** to your page and onto the **Chart** drop zone. And finally drag it to the **Bar Chart** zone.
@@ -97,9 +106,11 @@ After completing the renaming, click on the **Food Deserts Data** to close the d
 
 
 
+
 21. Click on the **Visualization type** and select **Summary table**.
 
 ![picture of visualization type][logo9]
+
 
  
 22. Click on the **NBH_ID** drop down arrow and click on the field “**Municipality**”.
