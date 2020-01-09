@@ -177,26 +177,48 @@ The **Summary Table** now depicts Municipalities in Niagara and their correspond
  
 38. Follow the steps in the Share data box below and click Share.
  
+ ![picture of the share data box][logo21]
+ 
 
 Once the data is shared, ‘Shared.Open Item’ appears below the Food Deserts Data as seen below.
+
+![picture of the shared.Open item in the data pane][logo22]
+
   
-39. Repeat the same process for **Bar Chart 1** in the Data pane and follow the procedure in the shared data below. Click **Share**
+39. Repeat the same process for **Bar Chart 1** in the Data pane and follow the procedure in the shared data below. Click **Share**.
+
+![picture of the share data procedure][logo23]
+
  
 Once the data is shared, ‘Shared.Open Item’ appears below the Bar Chart 1 as seen below.
+
+![picture of the shared.Open item in the data pane][logo24]
+
+
  
 **Identifying food deserts in Niagara neighbourhoods using distance parameters**.
 
 40. Go back to the map. Click **Card filter** to add new filter. Click **New Filter**. For **Filter by** choose the field ‘**Number of supermarkets within 5km**’. Drag from **25** to **0** and click **Apply**.
 
+![picture of the filter by number of supermarket procedure][logo25]
 
-**Below is the map of Niagara’s food deserts neighbourhoods without access to supermarkets within 5 km**.
+
+**Below is the map of Niagara’s food desert neighbourhoods without access to supermarkets within 5 km**.
+ 
+ ![Map of Niagara's food desert neighbourhoods without access to supermarkets within 15 km][logo26]
  
  
 41. Click anywhere outside the Map card.
 
 42. Click on “**Niagara Neighbourhoods without Supermarkets**” and rename it as **Niagara’s Food Desert Neighbourhoods by Distance**, and press **Enter**.
+
+![picture of the new map name][logo27]
+
  
 43. Share the map using the same steps used for the first map result. 
+ 
+ ![picture of the share data procedure][logo28]
+ 
  
 44. Click **Share**.
 
@@ -205,8 +227,14 @@ Once the data is shared, ‘Shared.Open Item’ appears below the Bar Chart 1 as
 **Creating new shapefiles from my results**.
 
 46. Go to the **Food Desert Data** map output dataset in the **Data pane**, click **Dataset** and click **Export**, and finally select **Shapefiles**.
+
+![picture showing the procedure for creating  shapefiles][logo29]
+
  
 47. Save the new shapefile to your desired location on your computer.
+
+![picture showing the procedure for saving  shapefiles][logo29]
+
 
 48. You can also repeat this above process to also create a shapefile for the **Bar Chart** as well. 
                                              
@@ -253,3 +281,13 @@ Content
 [logo18]: logo18.png
 [logo19]: logo19.png
 [logo20]: logo20.png
+[logo21]: logo21.png
+[logo22]: logo22.png
+[logo23]: logo23.png
+[logo24]: logo24.png
+[logo25]: logo25.png
+[logo26]: logo26.png
+[logo27]: logo27.png
+[logo28]: logo28.png
+[logo29]: logo29.png
+[logo30]: logo30.png
