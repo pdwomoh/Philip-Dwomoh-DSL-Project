@@ -21,7 +21,10 @@ Content
 
 6. Click **New workbook**.
 
-![alt text] (https://github.com/pdwomoh/Philip-Dwomoh-DSL-Project/blob/master/logo1.png ''
+![alt text] [logo1]
+
+[logo1]: https://github.com/pdwomoh/Philip-Dwomoh-DSL-Project/blob/master/logo1.png ''logo1
+
  
 >Note: The **Add To Page** window appears.
 >In this window, you can choose a dataset to add to your new workbook. 
