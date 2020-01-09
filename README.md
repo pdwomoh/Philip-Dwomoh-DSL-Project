@@ -21,9 +21,10 @@ Content
 
 6. Click **New workbook**.
 
-![alt text] [logo1]
+Reference-style:
+![alt  text] [logo1]
 
-[logo1]: https://github.com/pdwomoh/Philip-Dwomoh-DSL-Project/blob/master/logo1.png ''logo1
+[logo1]: https://github.com/pdwomoh/Philip-Dwomoh-DSL-Project/blob/master/logo1.png
 
  
 >Note: The **Add To Page** window appears.
