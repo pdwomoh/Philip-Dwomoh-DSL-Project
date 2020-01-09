@@ -98,21 +98,43 @@ After completing the renaming, click on the **Food Deserts Data** to close the d
 
 
 21. Click on the **Visualization type** and select **Summary table**.
+
+![picture of visualization type][logo9]
+
  
-22. Click on the **NBH_ID** drop down arrow and click on the field “**Municipality**”
+22. Click on the **NBH_ID** drop down arrow and click on the field “**Municipality**”.
+
+![picture of NBH_ID drop down arrow][logo10]
+
  
-23. Similarly click on the**Counts of Food Deserts Data** drop down arrow and click on “**Number of Supermarkets**”
+23. Similarly click on the**Counts of Food Deserts Data** drop down arrow and click on “**Number of Supermarkets**”.
+
+![picture of count of food deserts data drop down arrow][logo11]
+
  
 The **Summary Table** now depicts Municipalities in Niagara and their corresponding supermarket accessibility.
+
+![picture of summary table][logo12]
+
  
 24. Click **Visualization type** and select **Bar Chart**. Drag the center-right handle of the **Bar Chart Card** until the card is at a maximum length.
- 
+
+![picture showing the extension of the bar chart card][logo13]
+
+
+
 **Change the symbology of the bar chart card**.
 25. First click on the ‘**Legend**’. Click **Options** inside the Layer option box. Change the **Symbol type** from **Single symbol** to **Unique symbols** and click “**x**” to close the layer option box. Finally click anywhere outside the **Bar Chart Card**.
+
+![picture showing how to change the symbology of a bar chart card][logo14]
+
  
 26. Click on **Card 1** and type “**Number of Supermarkets by Municipality**” as the title for the bar chart, and press **Enter**.
 
 27. Click **Save**.
+
+ ![picture showing the save button][logo15]
+ 
  
 
 **Part 2: Identifying Food Deserts Neighbourhoods in the Niagara Region**
@@ -120,13 +142,25 @@ The **Summary Table** now depicts Municipalities in Niagara and their correspond
 28. In the data pane, Drag **Food Deserts Data** to your page below the **Bar Chart Card** and onto the **Map** drop zone.  
 
 29. Click **Legend**, click the **arrow** to the right of the food deserts data as shown on the map.
+
+![picture that can show the legend options][logo16]
+
  
 30. The **Layer options** box pops up. Click **Options**. For **Style by**, choose *Niagara Neighbourhoods* and for the **Symbol style** confirm that it is *Unique symbols*. When finished close the Layer options box.
+
+![picture of the layer options procedure][logo17]
+
  
 **We now want to identify neighbourhoods with no access to supermarkets**.
 31. Click on **Card Filter**.
+
+![picture of the filter button][logo18]
+
  
 32. A new filter box pops-up. Below **Filter By** click on the **Choose a field** drop down arrow and select **Number of supermarkets**.
+ 
+ ![picture of the filter by procedure][logo19]
+ 
  
 33. Drag to you left from **7** until you reach **0**. Click **Apply** and close **Filter**.
 
@@ -137,6 +171,9 @@ The **Summary Table** now depicts Municipalities in Niagara and their correspond
 36. Click **Save**.
 
 37. Go to the **Data pane**, click **Dataset** at the right side of **Food Deserts Data Map Result**. Click **Share Data**. 
+
+![picture of the share data procedure][logo20]
+
  
 38. Follow the steps in the Share data box below and click Share.
  
@@ -204,3 +241,15 @@ Content
 [logo6]: logo6.png
 [logo7]: logo7.png
 [logo8]: logo8.png
+[logo9]: logo9.png
+[logo10]: logo10.png
+[logo11]: logo11.png
+[logo12]: logo12.png
+[logo13]: logo13.png
+[logo14]: logo14.png
+[logo15]: logo15.png
+[logo16]: logo16.png
+[logo17]: logo17.png
+[logo18]: logo18.png
+[logo19]: logo19.png
+[logo20]: logo20.png
