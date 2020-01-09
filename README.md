@@ -21,7 +21,7 @@ In these lessons, I will explored neighbourhood data using ArcGIS Insights to id
 
 6. Click **New workbook**.
 
-![ Picture of New Workbook][logo1]
+      ![ Picture of New Workbook][logo1]
 
 
 
