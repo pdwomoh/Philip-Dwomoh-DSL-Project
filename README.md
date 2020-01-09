@@ -31,12 +31,14 @@ In these lessons, I will explored neighbourhood data using ArcGIS Insights to id
 >You can choose data hosted in your ArcGIS organization, data in a file on your computer, or data from Living Atlas. 
 
 7. In the left pane, click **Files**.
+
 ![picture of File button][logo2]
 
  
 8. Click Browse my computer. Browse to the extracted **Niagara Food Deserts** folder and select **Book1.xlsx**. and **NhbBoundaries compressed zip** folder and click **Open**.
 
 9. In the **Selected Data** pane, click **Add**.
+
 ![picture of selected data][logo3]
 
  
@@ -49,6 +51,7 @@ In these lessons, I will explored neighbourhood data using ArcGIS Insights to id
 11. Click **Page 1**, type *Data Exploration*, and press **Enter**.
 
 12. In the data pane, point to **Book1** and click **Rename dataset**.
+
 ![picture of rename dataset][logo4]
 
  
@@ -56,11 +59,13 @@ In these lessons, I will explored neighbourhood data using ArcGIS Insights to id
 
 14. Repeat the above step and rename **NhbBoundaries to Niagara Neighbourhood Boundaries** and press **Enter**.
 
-15. Point to **Food Desert Data**, click **Dataset Options**, and choose **Enable Location**.  
+15. Point to **Food Desert Data**, click **Dataset Options**, and choose **Enable Location**. 
+
 ![picture of enable location][logo5]
 
             
 16. In the **Enable Location** window, for **Location type**, choose *Geography*. For **Location Fields** choose *Multiple*, and for the **Multiple Fields** choose *NHB_NAME and MUN*. For **Matching Geography Level**, choose *Niagara Neighbourhood Boundaries*.
+
 ![picture of location type in enable location][logo6]
 
 
@@ -68,6 +73,7 @@ In these lessons, I will explored neighbourhood data using ArcGIS Insights to id
 17. Click **Run**.
 
 18. When the **Enable Location tool** finish loading, a new locations attribute named **Niagara Neighbourhood Boundaries** is added to **Food Deserts Data**.
+
 ![picture of new location in the data pane][logo7]
 
  
@@ -86,6 +92,7 @@ No. supermarket within 5km |	Number of Supermarket within 5 km
 After completing the renaming, click on the **Food Deserts Data** to close the drop-down attribute.
 
 20. In the data pane, Drag **Food Deserts Data** to your page and onto the **Chart** drop zone. And finally drag it to the **Bar Chart** zone.
+
 ![picture showing the movement of food deserts data to your page][logo8]
 
 
