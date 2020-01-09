@@ -7,47 +7,43 @@ Introduction
 In these lessons, I will explored neighbourhood data using ArcGIS Insights to identify food deserts neighbourhoods in Niagara Region. I will also analyze the data to detect spatial patterns. Finally, I will share my work on ArcGIS online and create new shapefiles from my results.
 ### Project Procedures
 
-1.. Download the Niagara Food Deserts compressed folder from the GitHub link below: https://github.com/pdwomoh/Philip-Dwomoh-DSL-Project
+1. Download the Niagara Food Deserts compressed folder from the GitHub link below: https://github.com/pdwomoh/Philip-Dwomoh-DSL-Project
 
-2.. Locate the downloaded file on your computer. Right-click the file and extract it to a location where you can easily find it, such as your Documents folder.
+2. Locate the downloaded file on your computer. Right-click the file and extract it to a location where you can easily find it, such as your Documents folder.
 
-3.. Sign in to your Insights Online account:https://insights.arcgis.com/#/
+3. Sign in to your Insights Online account:https://insights.arcgis.com/#/
 
 **Note**: If this is your first time using Insights, the **Welcome to Insights** window appears with a list of things you can do with Insights.
 
-4.. If necessary, in the **Welcome to Insights** window, click **Skip**.
+4. If necessary, in the **Welcome to Insights** window, click **Skip**.
 
-5.. Click the **Workbooks** tab.
+5. Click the **Workbooks** tab.
 
-6.. Click **New workbook**.
+6. Click **New workbook**.
 
-  ![ Picture of New Workbook][logo1]
-
+![ Picture of New Workbook][logo1]
 
 
  
-  >Note: The **Add To Page** window appears.
-  >In this window, you can choose a dataset to add to your new workbook. 
-  >You can choose data hosted in your ArcGIS organization, data in a file on your computer, or data from Living Atlas. 
-
+>Note: The **Add To Page** window appears.
+>In this window, you can choose a dataset to add to your new workbook. 
+>You can choose data hosted in your ArcGIS organization, data in a file on your computer, or data from Living Atlas. 
 
 7. In the left pane, click **Files**.
 
-  ![picture of File button][logo2]
+![picture of File button][logo2]
 
 
- 
 8. Click Browse my computer. Browse to the extracted **Niagara Food Deserts** folder and select **Book1.xlsx**. and **NhbBoundaries compressed zip** folder and click **Open**.
 
 9. In the **Selected Data** pane, click **Add**.
 
-  ![picture of selected data][logo3]
-
+![picture of selected data][logo3]
 
  
-  >The datasets are added to a new card in your workbook. 
-  >You use cards and pages to organize information in a workbook.
-  >Each page can contain multiple cards, and each card can contain a map, chart, or table. 
+>The datasets are added to a new card in your workbook. 
+>You use cards and pages to organize information in a workbook.
+>Each page can contain multiple cards, and each card can contain a map, chart, or table. 
 
 
 
@@ -57,7 +53,7 @@ In these lessons, I will explored neighbourhood data using ArcGIS Insights to id
 
 12. In the data pane, point to **Book1** and click **Rename dataset**.
 
-  ![picture of rename dataset][logo4]
+![picture of rename dataset][logo4]
 
  
 13. Type *Food Desert Data* and press **Enter**.
@@ -68,12 +64,10 @@ In these lessons, I will explored neighbourhood data using ArcGIS Insights to id
 
   ![picture of enable location][logo5]
 
-
             
 16. In the **Enable Location** window, for **Location type**, choose *Geography*. For **Location Fields** choose *Multiple*, and for the **Multiple Fields** choose *NHB_NAME and MUN*. For **Matching Geography Level**, choose *Niagara Neighbourhood Boundaries*.
 
   ![picture of location type in enable location][logo6]
-
 
  
 17. Click **Run**.
@@ -84,8 +78,8 @@ In these lessons, I will explored neighbourhood data using ArcGIS Insights to id
 
  
  
-  >Note: I chose geography as the location type because the food Deserts Data did not have any coordinate or address attribute.
-  >Hence making it possible to correspond the food deserts data’s locations to that of the zipped Niagara Neighbourhood boundaries  shapefile. 
+>Note: I chose geography as the location type because the food Deserts Data did not have any coordinate or address attribute.
+>Hence making it possible to correspond the food deserts data’s locations to that of the zipped Niagara Neighbourhood boundaries  shapefile. 
 
 
 19. Rename the following fields in the food deserts data in the data pane:
@@ -102,9 +96,7 @@ After completing the renaming, click on the **Food Deserts Data** to close the d
 
 20. In the data pane, Drag **Food Deserts Data** to your page and onto the **Chart** drop zone. And finally drag it to the **Bar Chart** zone.
 
-  ![picture showing the movement of food deserts data to your page][logo8]
-
-
+ ![picture showing the movement of food deserts data to your page][logo8]
 
 
 21. Click on the **Visualization type** and select **Summary table**.
@@ -112,15 +104,14 @@ After completing the renaming, click on the **Food Deserts Data** to close the d
   ![picture of visualization type][logo9]
 
 
- 
 22. Click on the **NBH_ID** drop down arrow and click on the field “**Municipality**”.
 
-  ![picture of NBH_ID drop down arrow][logo10]
+![picture of NBH_ID drop down arrow][logo10]
 
  
 23. Similarly click on the**Counts of Food Deserts Data** drop down arrow and click on “**Number of Supermarkets**”.
 
-  ![picture of count of food deserts data drop down arrow][logo11]
+![picture of count of food deserts data drop down arrow][logo11]
 
  
 The **Summary Table** now depicts Municipalities in Niagara and their corresponding supermarket accessibility.
