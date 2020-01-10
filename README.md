@@ -14,6 +14,7 @@ For this project, I will explore neighbourhood data using ArcGIS Insights to ide
 
 >**Note**: If this is your first time using Insights, the **Welcome to Insights** window appears with a list of things you can do with Insights.
 
+
 4. If necessary, in the **Welcome to Insights** window, click **Skip**.
 
 5. Click the **Workbooks** tab.
@@ -27,6 +28,7 @@ For this project, I will explore neighbourhood data using ArcGIS Insights to ide
 >Note: The **Add To Page** window appears.
 >In this window, you can choose a dataset to add to your new workbook. 
 >You can choose data hosted in your ArcGIS organization, data in a file on your computer, or data from Living Atlas. 
+
 
 7. In the left pane, click **Files**.
 
@@ -61,19 +63,19 @@ For this project, I will explore neighbourhood data using ArcGIS Insights to ide
 
 15. Point to **Food Desert Data**, click **Dataset Options**, and choose **Enable Location**. 
 
-  ![picture of enable location][logo5]
+![picture of enable location][logo5]
 
-            
+           
 16. In the **Enable Location** window, for **Location type**, choose *Geography*. For **Location Fields** choose *Multiple*, and for the **Multiple Fields** choose *NHB_NAME and MUN*. For **Matching Geography Level**, choose *Niagara Neighbourhood Boundaries*.
 
-  ![picture of location type in enable location][logo6]
+![picture of location type in enable location][logo6]
 
  
 17. Click **Run**.
 
 18. When the **Enable Location tool** finish loading, a new locations attribute named **Niagara Neighbourhood Boundaries** is added to **Food Deserts Data**.
 
-  ![picture of new location in the data pane][logo7]
+![picture of new location in the data pane][logo7]
 
  
  
@@ -124,7 +126,7 @@ The **Summary Table** now depicts Municipalities in Niagara and their correspond
 
 
 
-**Change the symbology of the bar chart card**.
+**Changing the symbology of the bar chart card**.
 25. First click on the ‘**Legend**’. Click **Options** inside the Layer option box. Change the **Symbol type** from **Single symbol** to **Unique symbols** and click “**x**” to close the layer option box. Finally click anywhere outside the **Bar Chart Card**.
 
 ![picture showing how to change the symbology of a bar chart card][logo14]
@@ -134,7 +136,7 @@ The **Summary Table** now depicts Municipalities in Niagara and their correspond
 
 27. Click **Save**.
 
- ![picture showing the save button][logo15]
+![picture showing the save button][logo15]
  
  
 
@@ -160,7 +162,7 @@ The **Summary Table** now depicts Municipalities in Niagara and their correspond
  
 32. A new filter box pops-up. Below **Filter By** click on the **Choose a field** drop down arrow and select **Number of supermarkets**.
  
- ![picture of the filter by procedure][logo19]
+![picture of the filter by procedure][logo19]
  
  
 33. Drag to you left from **7** until you reach **0**. Click **Apply** and close **Filter**.
@@ -168,6 +170,7 @@ The **Summary Table** now depicts Municipalities in Niagara and their correspond
 **Below is the map of Niagara’s neighbourhoods without supermarkets**.
 
 ![picture of neighbourhoods without supermarkets][logo31]
+
 
 34. Finally click anywhere outside the Map Card.
 
@@ -182,7 +185,7 @@ The **Summary Table** now depicts Municipalities in Niagara and their correspond
  
 38. Follow the steps in the Share data box below and click Share.
  
- ![picture of the share data box][logo21]
+![picture of the share data box][logo21]
  
 
 Once the data is shared, ‘Shared.Open Item’ appears below the Food Deserts Data as seen below.
@@ -222,7 +225,7 @@ Once the data is shared, ‘Shared.Open Item’ appears below the Bar Chart 1 as
  
 43. Share the map using the same steps used for the first map result. 
  
- ![picture of the share data procedure][logo28]
+![picture of the share data procedure][logo28]
  
  
 44. Click **Share**.
@@ -242,6 +245,8 @@ Once the data is shared, ‘Shared.Open Item’ appears below the Bar Chart 1 as
 
 
 48. You can also repeat this above process to also create a shapefile for the **Bar Chart** as well. 
+                                             
+                                             
                                              
                                              **Thank you and have a prosperous New Year**.
 
