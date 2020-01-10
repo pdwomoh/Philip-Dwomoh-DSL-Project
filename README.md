@@ -6,20 +6,20 @@ For this project, I will explore neighbourhood data using ArcGIS Insights to ide
 
 ### Project Procedures
 
-1. Download the Niagara Food Deserts compressed folder from the GitHub link below: https://github.com/pdwomoh/Philip-Dwomoh-DSL-Project
+1 . Download the Niagara Food Deserts compressed folder from the GitHub link below: https://github.com/pdwomoh/Philip-Dwomoh-DSL-Project
 
-2. Locate the downloaded file on your computer. Right-click the file and extract it to a location where you can easily find it, such as your Documents folder.
+2 . Locate the downloaded file on your computer. Right-click the file and extract it to a location where you can easily find it, such as your Documents folder.
 
-3. Sign in to your Insights Online account:https://insights.arcgis.com/#/
+3 . Sign in to your Insights Online account:https://insights.arcgis.com/#/
 
 >**Note**: If this is your first time using Insights, the **Welcome to Insights** window appears with a list of things you can do with Insights.
 
 
-4. If necessary, in the **Welcome to Insights** window, click **Skip**.
+4 . If necessary, in the **Welcome to Insights** window, click **Skip**.
 
-5. Click the **Workbooks** tab.
+5 . Click the **Workbooks** tab.
 
-6. Click **New workbook**.
+6 . Click **New workbook**.
 
 ![ Picture of New Workbook][logo1]
 
@@ -30,14 +30,14 @@ For this project, I will explore neighbourhood data using ArcGIS Insights to ide
 >You can choose data hosted in your ArcGIS organization, data in a file on your computer, or data from Living Atlas. 
 
 
-7. In the left pane, click **Files**.
+7 . In the left pane, click **Files**.
 
 ![picture of File button][logo2]
 
 
-8. Click Browse my computer. Browse to the extracted **Niagara Food Deserts** folder and select **Book1.xlsx**. and **NhbBoundaries compressed zip** folder and click **Open**.
+8 . Click Browse my computer. Browse to the extracted **Niagara Food Deserts** folder and select **Book1.xlsx**. and **NhbBoundaries compressed zip** folder and click **Open**.
 
-9. In the **Selected Data** pane, click **Add**.
+9 . In the **Selected Data** pane, click **Add**.
 
 ![picture of selected data][logo3]
 
