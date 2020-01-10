@@ -165,7 +165,7 @@ The **Summary Table** now depicts Municipalities in Niagara and their correspond
  
 33. Drag to you left from **7** until you reach **0**. Click **Apply** and close **Filter**.
 
-34. Finally click anywhere outside the Bar Chart Card.
+34. Finally click anywhere outside the Map Card.
 
 35. Click on **Card 1** and type “*Niagara Neighbourhoods without Supermarkets*” as the title for the Map, and press **Enter**.
 
