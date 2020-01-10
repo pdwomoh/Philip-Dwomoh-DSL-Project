@@ -2,9 +2,8 @@
 
 
 # Identifying Food Desert Neighbourhoods in the Niagara Region
-Introduction
+For this project, I will explore neighbourhood data using ArcGIS Insights to identify food deserts neighbourhoods in Niagara Region. Data for the purpose of this project were gathered from Niagara Open Data Source and the Niagara Poverty Initiative websites. Variables that will be examined to identify food deserts are distance to supermarkets and number of supermarkets. I will also analyze the data to detect spatial patterns. Finally, I will share my work on ArcGIS online and create new shapefiles from my results.
 
-In these lessons, I will explored neighbourhood data using ArcGIS Insights to identify food deserts neighbourhoods in Niagara Region. I will also analyze the data to detect spatial patterns. Finally, I will share my work on ArcGIS online and create new shapefiles from my results.
 ### Project Procedures
 
 1. Download the Niagara Food Deserts compressed folder from the GitHub link below: https://github.com/pdwomoh/Philip-Dwomoh-DSL-Project
