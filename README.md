@@ -48,32 +48,32 @@ For this project, I will explore neighbourhood data using ArcGIS Insights to ide
 
 
 
-10. Click **Untitled Workbook**, type *Niagara's Food desert Neighbourhoods* and press **Enter**.
+10 . Click **Untitled Workbook**, type *Niagara's Food desert Neighbourhoods* and press **Enter**.
 
-11. Click **Page 1**, type *Data Exploration*, and press **Enter**.
+11 . Click **Page 1**, type *Data Exploration*, and press **Enter**.
 
-12. In the data pane, point to **Book1** and click **Rename dataset**.
+12 . In the data pane, point to **Book1** and click **Rename dataset**.
 
 ![picture of rename dataset][logo4]
 
  
-13. Type *Food Desert Data* and press **Enter**.
+13 . Type *Food Desert Data* and press **Enter**.
 
-14. Repeat the above step and rename **NhbBoundaries to Niagara Neighbourhood Boundaries** and press **Enter**.
+14 . Repeat the above step and rename **NhbBoundaries to Niagara Neighbourhood Boundaries** and press **Enter**.
 
-15. Point to **Food Desert Data**, click **Dataset Options**, and choose **Enable Location**. 
+15 . Point to **Food Desert Data**, click **Dataset Options**, and choose **Enable Location**. 
 
 ![picture of enable location][logo5]
 
            
-16. In the **Enable Location** window, for **Location type**, choose *Geography*. For **Location Fields** choose *Multiple*, and for the **Multiple Fields** choose *NHB_NAME and MUN*. For **Matching Geography Level**, choose *Niagara Neighbourhood Boundaries*.
+16 . In the **Enable Location** window, for **Location type**, choose *Geography*. For **Location Fields** choose *Multiple*, and for the **Multiple Fields** choose *NHB_NAME and MUN*. For **Matching Geography Level**, choose *Niagara Neighbourhood Boundaries*.
 
 ![picture of location type in enable location][logo6]
 
  
-17. Click **Run**.
+17 . Click **Run**.
 
-18. When the **Enable Location tool** finish loading, a new locations attribute named **Niagara Neighbourhood Boundaries** is added to **Food Deserts Data**.
+18 . When the **Enable Location tool** finish loading, a new locations attribute named **Niagara Neighbourhood Boundaries** is added to **Food Deserts Data**.
 
 ![picture of new location in the data pane][logo7]
 
@@ -83,7 +83,7 @@ For this project, I will explore neighbourhood data using ArcGIS Insights to ide
 >Hence making it possible to correspond the food deserts data’s locations to that of the zipped Niagara Neighbourhood boundaries  shapefile. 
 
 
-19. Rename the following fields in the food deserts data in the data pane:
+19 . Rename the following fields in the food deserts data in the data pane:
 
 From |	To 
 --- | ---
@@ -95,22 +95,22 @@ No. supermarket within 5km |	Number of Supermarket within 5 km
 
 After completing the renaming, click on the **Food Deserts Data** to close the drop-down attribute.
 
-20. In the data pane, Drag **Food Deserts Data** to your page and onto the **Chart** drop zone. And finally drag it to the **Bar Chart** zone.
+20 . In the data pane, Drag **Food Deserts Data** to your page and onto the **Chart** drop zone. And finally drag it to the **Bar Chart** zone.
 
  ![picture showing the movement of food deserts data to your page][logo8]
 
 
-21. Click on the **Visualization type** and select **Summary table**.
+21 . Click on the **Visualization type** and select **Summary table**.
 
   ![picture of visualization type][logo9]
 
 
-22. Click on the **NBH_ID** drop down arrow and click on the field “**Municipality**”.
+22 . Click on the **NBH_ID** drop down arrow and click on the field “**Municipality**”.
 
 ![picture of NBH_ID drop down arrow][logo10]
 
  
-23. Similarly click on the**Counts of Food Deserts Data** drop down arrow and click on “**Number of Supermarkets**”.
+23 . Similarly click on the**Counts of Food Deserts Data** drop down arrow and click on “**Number of Supermarkets**”.
 
 ![picture of count of food deserts data drop down arrow][logo11]
 
@@ -120,7 +120,7 @@ The **Summary Table** now depicts Municipalities in Niagara and their correspond
 ![picture of summary table][logo12]
 
  
-24. Click **Visualization type** and select **Bar Chart**. Drag the center-right handle of the **Bar Chart Card** until the card is at a maximum length.
+24 . Click **Visualization type** and select **Bar Chart**. Drag the center-right handle of the **Bar Chart Card** until the card is at a maximum length.
 
 ![picture showing the extension of the bar chart card][logo13]
 
@@ -132,9 +132,9 @@ The **Summary Table** now depicts Municipalities in Niagara and their correspond
 ![picture showing how to change the symbology of a bar chart card][logo14]
 
  
-26. Click on **Card 1** and type “**Number of Supermarkets by Municipality**” as the title for the bar chart, and press **Enter**.
+26 . Click on **Card 1** and type “**Number of Supermarkets by Municipality**” as the title for the bar chart, and press **Enter**.
 
-27. Click **Save**.
+27 . Click **Save**.
 
 ![picture showing the save button][logo15]
  
@@ -142,48 +142,48 @@ The **Summary Table** now depicts Municipalities in Niagara and their correspond
 
 **Part 2: Identifying Food Deserts Neighbourhoods in the Niagara Region**
 
-28. In the data pane, Drag **Food Deserts Data** to your page below the **Bar Chart Card** and onto the **Map** drop zone.  
+28 . In the data pane, Drag **Food Deserts Data** to your page below the **Bar Chart Card** and onto the **Map** drop zone.  
 
-29. Click **Legend**, click the **arrow** to the right of the food deserts data as shown on the map.
+29 . Click **Legend**, click the **arrow** to the right of the food deserts data as shown on the map.
 
 ![picture that can show the legend options][logo16]
 
  
-30. The **Layer options** box pops up. Click **Options**. For **Style by**, choose *Niagara Neighbourhoods* and for the **Symbol style** confirm that it is *Unique symbols*. When finished close the Layer options box.
+30 . The **Layer options** box pops up. Click **Options**. For **Style by**, choose *Niagara Neighbourhoods* and for the **Symbol style** confirm that it is *Unique symbols*. When finished close the Layer options box.
 
 ![picture of the layer options procedure][logo17]
 
  
 **We now want to identify neighbourhoods with no access to supermarkets**.
-31. Click on **Card Filter**.
+31 . Click on **Card Filter**.
 
 ![picture of the filter button][logo18]
 
  
-32. A new filter box pops-up. Below **Filter By** click on the **Choose a field** drop down arrow and select **Number of supermarkets**.
+32 . A new filter box pops-up. Below **Filter By** click on the **Choose a field** drop down arrow and select **Number of supermarkets**.
  
 ![picture of the filter by procedure][logo19]
  
  
-33. Drag to you left from **7** until you reach **0**. Click **Apply** and close **Filter**.
+33 . Drag to you left from **7** until you reach **0**. Click **Apply** and close **Filter**.
 
 **Below is the map of Niagara’s neighbourhoods without supermarkets**.
 
 ![picture of neighbourhoods without supermarkets][logo31]
 
 
-34. Finally click anywhere outside the Map Card.
+34 . Finally click anywhere outside the Map Card.
 
-35. Click on **Card 1** and type “*Niagara Neighbourhoods without Supermarkets*” as the title for the Map, and press **Enter**.
+35 . Click on **Card 1** and type “*Niagara Neighbourhoods without Supermarkets*” as the title for the Map, and press **Enter**.
 
-36. Click **Save**.
+36 . Click **Save**.
 
-37. Go to the **Data pane**, click **Dataset** at the right side of **Food Deserts Data Map Result**. Click **Share Data**. 
+37 . Go to the **Data pane**, click **Dataset** at the right side of **Food Deserts Data Map Result**. Click **Share Data**. 
 
 ![picture of the share data procedure][logo20]
 
  
-38. Follow the steps in the Share data box below and click Share.
+38 . Follow the steps in the Share data box below and click Share.
  
 ![picture of the share data box][logo21]
  
@@ -193,7 +193,7 @@ Once the data is shared, ‘Shared.Open Item’ appears below the Food Deserts D
 ![picture of the shared.Open item in the data pane][logo22]
 
   
-39. Repeat the same process for **Bar Chart 1** in the Data pane and follow the procedure in the shared data below. Click **Share**.
+39 . Repeat the same process for **Bar Chart 1** in the Data pane and follow the procedure in the shared data below. Click **Share**.
 
 ![picture of the share data procedure][logo23]
 
@@ -206,7 +206,7 @@ Once the data is shared, ‘Shared.Open Item’ appears below the Bar Chart 1 as
  
 **Identifying food deserts in Niagara neighbourhoods using distance parameters**.
 
-40. Go back to the map. Click **Card filter** to add new filter. Click **New Filter**. For **Filter by** choose the field ‘**Number of supermarkets within 5km**’. Drag from **25** to **0** and click **Apply**.
+40 . Go back to the map. Click **Card filter** to add new filter. Click **New Filter**. For **Filter by** choose the field ‘**Number of supermarkets within 5km**’. Drag from **25** to **0** and click **Apply**.
 
 ![picture of the filter by number of supermarket procedure][logo25]
 
@@ -216,35 +216,35 @@ Once the data is shared, ‘Shared.Open Item’ appears below the Bar Chart 1 as
  ![Map of Niagara's food desert neighbourhoods without access to supermarkets within 15 km][logo26]
  
  
-41. Click anywhere outside the Map card.
+41 . Click anywhere outside the Map card.
 
-42. Click on “**Niagara Neighbourhoods without Supermarkets**” and rename it as **Niagara’s Food Desert Neighbourhoods by Distance**, and press **Enter**.
+42 . Click on “**Niagara Neighbourhoods without Supermarkets**” and rename it as **Niagara’s Food Desert Neighbourhoods by Distance**, and press **Enter**.
 
 ![picture of the new map name][logo27]
 
  
-43. Share the map using the same steps used for the first map result. 
+43 . Share the map using the same steps used for the first map result. 
  
 ![picture of the share data procedure][logo28]
  
  
-44. Click **Share**.
+44 . Click **Share**.
 
-45. Finally Click **Save**.
+45 . Finally Click **Save**.
 
 **Creating new shapefiles from my results**.
 
-46. Go to the **Food Desert Data** map output dataset in the **Data pane**, click **Dataset** and click **Export**, and finally select **Shapefiles**.
+46 . Go to the **Food Desert Data** map output dataset in the **Data pane**, click **Dataset** and click **Export**, and finally select **Shapefiles**.
 
 ![picture showing the procedure for creating  shapefiles][logo29]
 
  
-47. Save the new shapefile to your desired location on your computer.
+47 . Save the new shapefile to your desired location on your computer.
 
 ![picture showing the procedure for saving  shapefiles][logo29]
 
 
-48. You can also repeat this above process to also create a shapefile for the **Bar Chart** as well. 
+48 . You can also repeat this above process to also create a shapefile for the **Bar Chart** as well. 
                                              
                                              
                                              
