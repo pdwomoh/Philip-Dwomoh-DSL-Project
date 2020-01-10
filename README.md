@@ -127,7 +127,7 @@ The **Summary Table** now depicts Municipalities in Niagara and their correspond
 
 
 **Changing the symbology of the bar chart card**.
-25. First click on the ‘**Legend**’. Click **Options** inside the Layer option box. Change the **Symbol type** from **Single symbol** to **Unique symbols** and click “**x**” to close the layer option box. Finally click anywhere outside the **Bar Chart Card**.
+25 . First click on the ‘**Legend**’. Click **Options** inside the Layer option box. Change the **Symbol type** from **Single symbol** to **Unique symbols** and click “**x**” to close the layer option box. Finally click anywhere outside the **Bar Chart Card**.
 
 ![picture showing how to change the symbology of a bar chart card][logo14]
 
