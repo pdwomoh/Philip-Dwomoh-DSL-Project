@@ -143,7 +143,8 @@ The **Summary Table** now depicts Municipalities in Niagara and their correspond
  
  
 
-**Part 2: Identifying Food Deserts Neighbourhoods in the Niagara Region**
+
+**Identifying Food Deserts Neighbourhoods in the Niagara Region**
 
 28 . In the data pane, Drag **Food Deserts Data** to your page below the **Bar Chart Card** and onto the **Map** drop zone.  
 
@@ -175,7 +176,7 @@ The **Summary Table** now depicts Municipalities in Niagara and their correspond
 ![picture of neighbourhoods without supermarkets][logo31]
 
 
->**Note**: Click on each **area of the map** to identify neighbourhoods without supermarkets.
+>**Note**: Click on each **area on the map** to identify neighbourhoods without supermarkets.
 
 34 . Finally click anywhere outside the Map Card.
 
@@ -221,7 +222,7 @@ Once the data is shared, ‘Shared.Open Item’ appears below the Bar Chart 1 as
  ![Map of Niagara's food desert neighbourhoods without access to supermarkets within 15 km][logo26]
  
  
- >**Note**: Click on each **area of the map** to identify neighbourhoods considered as food deserts within 5 km.
+ >**Note**: Click on each **area on the map** to identify neighbourhoods considered as food deserts within 5 km.
  
 41 . Click anywhere outside the Map card.
 
