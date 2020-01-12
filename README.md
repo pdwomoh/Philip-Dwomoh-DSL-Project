@@ -133,6 +133,8 @@ The **Summary Table** now depicts Municipalities in Niagara and their correspond
 ![picture showing how to change the symbology of a bar chart card][logo14]
 
  
+ >**Note**: Click on the **bars** to identify the number of supermarkets available to each municipality.
+ 
 26 . Click on **Card 1** and type “**Number of Supermarkets by Municipality**” as the title for the bar chart, and press **Enter**.
 
 27 . Click **Save**.
@@ -172,6 +174,8 @@ The **Summary Table** now depicts Municipalities in Niagara and their correspond
 
 ![picture of neighbourhoods without supermarkets][logo31]
 
+
+>**Note**: Click on each **area of the map** to identify neighbourhoods without supermarkets.
 
 34 . Finally click anywhere outside the Map Card.
 
@@ -216,6 +220,8 @@ Once the data is shared, ‘Shared.Open Item’ appears below the Bar Chart 1 as
  
  ![Map of Niagara's food desert neighbourhoods without access to supermarkets within 15 km][logo26]
  
+ 
+ >**Note**: Click on each **area of the map** to identify neighbourhoods considered as food deserts within 5 km.
  
 41 . Click anywhere outside the Map card.
 
