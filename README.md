@@ -4,11 +4,12 @@
 # Identifying Food Desert Neighbourhoods in the Niagara Region
 
 ### Introduction
-For this project, I will explore neighbourhood data using ArcGIS Insights to identify food deserts neighbourhoods in Niagara Region. Data for the purpose of this project were gathered from Niagara Open Data Source and the Niagara Poverty Initiative websites. Variables that will be examined to identify food deserts are distance to supermarkets and number of supermarkets. I will also analyze the data to detect spatial patterns. Finally, I will share my work on ArcGIS online and create new shapefiles from my results.
+For this project, I will explore neighbourhood data using ArcGIS Insights to identify food desert neighbourhoods in Niagara Region. Data for the purpose of this project were gathered from Niagara Open Data and Niagara Poverty Initiative websites. Variables that will be examined to identify food deserts are distance to supermarkets and number of supermarkets. I will also analyze the data to detect spatial patterns. Finally, I will share my work on ArcGIS online and create new shapefiles from my results.
 
 ### Project Procedures
 
-1 . Download the Niagara Food Deserts compressed folder from the GitHub link below: https://github.com/pdwomoh/Philip-Dwomoh-DSL-Project
+1 . Download the Niagara Food Deserts compressed folder from the GitHub link below:
+https://github.com/pdwomoh/Philip-Dwomoh-DSL-Project
 
 2 . Locate the downloaded file on your computer. Right-click the file and extract it to a location where you can easily find it, such as your Documents folder.
 
@@ -261,7 +262,7 @@ Once the data is shared, ‘Shared.Open Item’ appears below the Bar Chart 1 as
 
 ### Conclusion
 
-This project explored the potential of ArcGIS Insight in identifying Niagara food desert Neighbourhoods. Findings of the studies revealed that neighbourhoods deemed as food deserts within 5 km were Caistor, Wainfleet, Gainsborough, Bethel/Gasline/Sherkston and Stevensville.
+This project explored the potential of ArcGIS Insight in identifying Niagara food desert Neighbourhoods.The Findings revealed that neighbourhoods deemed as food deserts within 5 km were Caistor, Wainfleet, Gainsborough, Bethel/Gasline/Sherkston and Stevensville. Results from the project were also shared on ArcGIS online. Finally, new shapefiles were created from the project results.
 
 
  
