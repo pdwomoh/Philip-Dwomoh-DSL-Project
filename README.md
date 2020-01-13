@@ -256,13 +256,13 @@ Once the data is shared, ‘Shared.Open Item’ appears below the Bar Chart 1 as
 
 
 48 . You can also repeat this above process to also create a shapefile for the **Bar Chart** as well. 
-                                             
+                                             t
                                              
                                                                                     
 
 ### Conclusion
 
-This project explored the potential of ArcGIS Insight in identifying Niagara food desert Neighbourhoods.The Findings revealed that neighbourhoods deemed as food deserts within 5 km were Caistor, Wainfleet, Gainsborough, Bethel/Gasline/Sherkston and Stevensville. Results from the project were also shared on ArcGIS online. Finally, new shapefiles were created from the project results.
+This project explored the potential of ArcGIS Insight in identifying Niagara's food desert Neighbourhoods.The findings revealed that neighbourhoods deemed as food deserts within 5 km were Caistor, Wainfleet, Gainsborough, Bethel/Gasline/Sherkston and Stevensville. Results from the project were also shared on ArcGIS online. Finally, new shapefiles were created from the project results.
 
 
  
