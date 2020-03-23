@@ -98,6 +98,7 @@ No. supermarket within 5km |	Number of Supermarket within 5 km
 
 After completing the renaming, click on the **Food Deserts Data** to close the drop-down attribute.
 
+
 20 . In the data pane, Drag **Food Deserts Data** to your page and onto the **Chart** drop zone. And finally drag it to the **Bar Chart** zone.
 
  ![picture showing the movement of food deserts data to your page][logo8]
