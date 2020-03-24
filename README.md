@@ -257,7 +257,7 @@ Once the data is shared, ‘Shared.Open Item’ appears below the Bar Chart 1 as
 
 
 48 . You can also repeat this above process to also create a shapefile for the **Bar Chart** as well. 
-                                             t
+                                             
                                              
                                                                                     
 
