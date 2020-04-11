@@ -272,9 +272,9 @@ This project explored the potential of ArcGIS Insight in identifying Niagara's f
                           
  **Author**: Philip Dwomoh
  
-           (DSL/MDGL Student Staff)
+          (DSL/MDGL Student Staff)
  
-           Brock University
+          Brock University
 
 
 
